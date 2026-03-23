@@ -1,6 +1,6 @@
 <div align="center">
 
-## L U W A M &nbsp; M A J O R &nbsp; K E F A L I
+# L U W A M  ·  M A J O R  ·  K E F A L I
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI+from+first+principles+%F0%9F%A7%A0;NLP+%C2%B7+Computer+Vision+%C2%B7+Multimodal+AI;LLMs+%C2%B7+RAG+%C2%B7+Agentic+Systems;MSc+AI+%40+University+of+Bologna+%F0%9F%87%AE%F0%9F%87%B9;IEEE+Published+Author)](https://git.io/typing-svg)
 

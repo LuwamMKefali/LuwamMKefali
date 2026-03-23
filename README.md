@@ -1,14 +1,14 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:0E7490&height=200&section=header&text=L%20U%20W%20A%20M%20%20%20M%20A%20J%20O%20R%20%20%20K%20E%20F%20A%20L%20I&fontSize=28&fontColor=ffffff&fontAlignY=45&desc=ML%20Engineer%20%26%20Researcher&descAlignY=65&descSize=14&descColor=E9D5FF)
+## L U W A M &nbsp; M A J O R &nbsp; K E F A L I
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI+from+first+principles+%F0%9F%A7%A0;NLP+%C2%B7+Computer+Vision+%C2%B7+Multimodal+AI;LLMs+%C2%B7+RAG+%C2%B7+Agentic+Systems;MSc+AI+%40+University+of+Bologna+%F0%9F%87%AE%F0%9F%87%B9;IEEE+Published+Author)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luwam-major)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuwamMKefali)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/luwammajor)
-[![IEEE](https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luwammajor5@mail.com)
+[![IEEE](https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10114029)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luwammajor5@gmail.com)
 
 </div>
 

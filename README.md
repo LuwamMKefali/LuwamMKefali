@@ -89,12 +89,4 @@ class Luwam:
 
 <br>
 
-**🔥 What's Happening in AI Right Now**
-
-- 🧠 **Test-Time Compute Scaling** — models like o3 reason longer at inference. A fundamental shift in how capability is unlocked.
-- 👁️ **Vision-Language Models going mainstream** — Gemini 1.5, GPT-4o, LLaMA 3.2 Vision. Multimodal is no longer a research niche.
-- ⚡ **Mixture of Experts (MoE)** — Mixtral, DeepSeek-V2. Sparse activation means massive models at a fraction of the compute cost.
-- 🔬 **Small models, big performance** — Phi-3, Gemma 2, Mistral 7B. Efficient fine-tuning closing the gap with much larger models.
-- 🌍 **AI for low-resource languages** — still an open problem. BLOOM, AfroLM, and multilingual fine-tuning pushing boundaries.
-
 → [My paper notes](https://github.com/LuwamMKefali/neural-forge/tree/main/06-papers)
